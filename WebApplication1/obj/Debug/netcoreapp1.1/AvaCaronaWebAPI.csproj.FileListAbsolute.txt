@@ -1,0 +1,14 @@
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\bin\Debug\netcoreapp1.1\AvaCaronaWebAPI.deps.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\bin\Debug\netcoreapp1.1\AvaCaronaWebAPI.runtimeconfig.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\bin\Debug\netcoreapp1.1\AvaCaronaWebAPI.runtimeconfig.dev.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\bin\Debug\netcoreapp1.1\AvaCaronaWebAPI.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\bin\Debug\netcoreapp1.1\AvaCaronaWebAPI.pdb
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\bin\Debug\netcoreapp1.1\AvaCarona.API.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\bin\Debug\netcoreapp1.1\AvaCarona.API.pdb
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\obj\Debug\netcoreapp1.1\AvaCaronaWebAPI.csprojAssemblyReference.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\obj\Debug\netcoreapp1.1\AvaCaronaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\obj\Debug\netcoreapp1.1\AvaCaronaWebAPI.AssemblyInfoInputs.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\obj\Debug\netcoreapp1.1\AvaCaronaWebAPI.AssemblyInfo.cs
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\obj\Debug\netcoreapp1.1\AvaCaronaWebAPI.csproj.CopyComplete
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\obj\Debug\netcoreapp1.1\AvaCaronaWebAPI.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\WebApplication1\obj\Debug\netcoreapp1.1\AvaCaronaWebAPI.pdb

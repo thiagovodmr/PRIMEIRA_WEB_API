@@ -1,0 +1,17 @@
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\obj\Debug\netcoreapp2.0\ProjetoIntegracao.csprojAssemblyReference.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\obj\Debug\netcoreapp2.0\ProjetoIntegracao.csproj.CoreCompileInputs.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\obj\Debug\netcoreapp2.0\ProjetoIntegracao.AssemblyInfoInputs.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\obj\Debug\netcoreapp2.0\ProjetoIntegracao.AssemblyInfo.cs
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\ProjetoIntegracao.deps.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\ProjetoIntegracao.runtimeconfig.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\ProjetoIntegracao.runtimeconfig.dev.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\ProjetoIntegracao.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\ProjetoIntegracao.pdb
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\AvaCarona.API.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\bin\Debug\netcoreapp2.0\AvaCarona.API.pdb
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\obj\Debug\netcoreapp2.0\ProjetoIntegracao.csproj.CopyComplete
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\obj\Debug\netcoreapp2.0\ProjetoIntegracao.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\ProjetoIntegracao\obj\Debug\netcoreapp2.0\ProjetoIntegracao.pdb

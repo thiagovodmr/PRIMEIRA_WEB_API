@@ -1,0 +1,9 @@
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.API\bin\Debug\netcoreapp1.1\AvaCarona.API.deps.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.API\bin\Debug\netcoreapp1.1\AvaCarona.API.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.API\bin\Debug\netcoreapp1.1\AvaCarona.API.pdb
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.csprojAssemblyReference.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.csproj.CoreCompileInputs.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.AssemblyInfoInputs.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.AssemblyInfo.cs
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.pdb

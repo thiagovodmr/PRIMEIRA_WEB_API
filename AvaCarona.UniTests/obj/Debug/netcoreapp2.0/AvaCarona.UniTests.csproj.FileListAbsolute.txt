@@ -1,0 +1,17 @@
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\obj\Debug\netcoreapp2.0\AvaCarona.UniTests.csprojAssemblyReference.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\obj\Debug\netcoreapp2.0\AvaCarona.UniTests.csproj.CoreCompileInputs.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\obj\Debug\netcoreapp2.0\AvaCarona.UniTests.AssemblyInfoInputs.cache
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\obj\Debug\netcoreapp2.0\AvaCarona.UniTests.AssemblyInfo.cs
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\AvaCarona.UniTests.deps.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\AvaCarona.UniTests.runtimeconfig.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\AvaCarona.UniTests.runtimeconfig.dev.json
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\AvaCarona.UniTests.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\AvaCarona.UniTests.pdb
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\AvaCarona.API.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\bin\Debug\netcoreapp2.0\AvaCarona.API.pdb
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\obj\Debug\netcoreapp2.0\AvaCarona.UniTests.csproj.CopyComplete
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\obj\Debug\netcoreapp2.0\AvaCarona.UniTests.dll
+C:\Users\t.de.matos.rodrigues\source\repos\AvaCarona.API\AvaCarona.UniTests\obj\Debug\netcoreapp2.0\AvaCarona.UniTests.pdb
